@@ -1,0 +1,15 @@
+{
+    "name": "maybe-christmas",
+    "version": "1.0.0",
+    "description": "Is today Christmas?",
+    "license": "Proprietary License",
+    "repository": "theoprimeagen/maybe-christmas", 
+    "author": {
+      "name": "theoprimeagen",
+      "email": "theoprimeagen@gmail.com",
+      "url": "github.com/theoprimeagen"
+    },
+    "keywords": [
+      "christmas"
+    ]
+  }
